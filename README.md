@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -56,4 +57,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
