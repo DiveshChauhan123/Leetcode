@@ -20,8 +20,7 @@ public:
             }
         }
 
-        visited[x][y] = 0;
-
+        visited[x][y] = 0; 
         return false;
     }
 
@@ -29,11 +28,10 @@ public:
         int n = board.size();
         int m = board[0].size();
 
-        vector<vector<int>> visited(n, vector<int>(m, 0));
-
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (board[i][j] == word[0]) {
+                    vector<vector<int>> visited(n, vector<int>(m, 0));
                     if (dfs(i, j, board, word, visited, 1)) {
                         return true;
                     }
