@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DiveshChauhan123/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DiveshChauhan123/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DiveshChauhan123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -196,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Linked List
