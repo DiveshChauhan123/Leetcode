@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DiveshChauhan123/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DiveshChauhan123/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
