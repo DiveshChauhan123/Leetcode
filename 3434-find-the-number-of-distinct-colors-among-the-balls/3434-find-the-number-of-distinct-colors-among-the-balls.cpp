@@ -13,7 +13,7 @@ public:
             int u = q[0], v = q[1];
 
             // Decrease frequency of previous value (if any)
-            if (ans.count(u)) {
+            if (ans.find(u)!=ans.end()) {
                 int old_val = ans[u];
                 mp[old_val]--;
                 if (mp[old_val] == 0) {
