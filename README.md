@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/DiveshChauhan123/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
