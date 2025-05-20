@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0806-domino-and-tromino-tiling](https://github.com/DiveshChauhan123/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
