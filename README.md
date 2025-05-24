@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/DiveshChauhan123/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0087-scramble-string) |
 | [0214-shortest-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
