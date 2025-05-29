@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DiveshChauhan123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Enumeration
