@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DiveshChauhan123/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Enumeration
