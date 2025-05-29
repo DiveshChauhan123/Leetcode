@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
+| [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1517-restore-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1517-restore-the-array) |
+| [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
