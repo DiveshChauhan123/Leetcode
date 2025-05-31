@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/DiveshChauhan123/Leetcode/tree/master/0859-design-circular-deque) |
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
 | [0911-profitable-schemes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0911-profitable-schemes) |
+| [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/DiveshChauhan123/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
