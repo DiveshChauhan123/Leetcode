@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/DiveshChauhan123/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Design
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -520,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Indexed Tree
