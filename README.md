@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/DiveshChauhan123/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
