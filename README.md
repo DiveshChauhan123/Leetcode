@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/DiveshChauhan123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
