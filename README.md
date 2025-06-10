@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
