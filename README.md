@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DiveshChauhan123/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/DiveshChauhan123/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DiveshChauhan123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/DiveshChauhan123/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
