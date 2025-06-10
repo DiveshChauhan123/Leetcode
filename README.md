@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/DiveshChauhan123/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/DiveshChauhan123/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -330,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -363,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3189-find-champion-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
@@ -374,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -448,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DiveshChauhan123/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
