@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DiveshChauhan123/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
+| [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
