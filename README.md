@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0922-possible-bipartition) |
+| [0971-shortest-bridge](https://github.com/DiveshChauhan123/Leetcode/tree/master/0971-shortest-bridge) |
 | [0988-flip-equivalent-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/DiveshChauhan123/Leetcode/tree/master/0971-shortest-bridge) |
 | [0993-tallest-billboard](https://github.com/DiveshChauhan123/Leetcode/tree/master/0993-tallest-billboard) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/DiveshChauhan123/Leetcode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -465,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0864-image-overlap](https://github.com/DiveshChauhan123/Leetcode/tree/master/0864-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0971-shortest-bridge](https://github.com/DiveshChauhan123/Leetcode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
