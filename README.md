@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/DiveshChauhan123/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2102-find-the-middle-index-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/DiveshChauhan123/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2342-minimum-average-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/DiveshChauhan123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
