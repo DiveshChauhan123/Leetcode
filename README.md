@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DiveshChauhan123/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DiveshChauhan123/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
