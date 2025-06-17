@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/DiveshChauhan123/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DiveshChauhan123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Ordered Set
@@ -671,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/DiveshChauhan123/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Simulation
