@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0337-house-robber-iii) |
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -623,12 +625,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/DiveshChauhan123/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0337-house-robber-iii) |
 | [0930-all-possible-full-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -775,5 +779,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
