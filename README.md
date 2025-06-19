@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/DiveshChauhan123/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2102-find-the-middle-index-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/DiveshChauhan123/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -656,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/DiveshChauhan123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
