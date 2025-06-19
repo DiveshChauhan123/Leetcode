@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0087-scramble-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/DiveshChauhan123/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
+| [0119-pascals-triangle-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/DiveshChauhan123/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DiveshChauhan123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
