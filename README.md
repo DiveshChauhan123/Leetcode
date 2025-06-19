@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1680-count-all-possible-routes) |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/DiveshChauhan123/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Enumeration
@@ -801,4 +803,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
