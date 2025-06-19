@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
