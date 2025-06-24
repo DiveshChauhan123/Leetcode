@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/DiveshChauhan123/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2342-minimum-average-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
