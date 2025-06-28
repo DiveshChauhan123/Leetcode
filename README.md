@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DiveshChauhan123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
