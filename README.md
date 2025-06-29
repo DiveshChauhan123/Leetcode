@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DiveshChauhan123/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/DiveshChauhan123/Leetcode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DiveshChauhan123/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
