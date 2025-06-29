@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DiveshChauhan123/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0213-house-robber-ii) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/DiveshChauhan123/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
