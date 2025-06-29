@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -779,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2915-count-of-interesting-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3639-zero-array-transformation-i) |
