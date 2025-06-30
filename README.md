@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1185-find-in-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/DiveshChauhan123/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1185-find-in-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -912,4 +914,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
