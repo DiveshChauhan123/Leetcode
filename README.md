@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DiveshChauhan123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DiveshChauhan123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/DiveshChauhan123/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-last-day-where-you-can-still-cross](https://github.com/DiveshChauhan123/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DiveshChauhan123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DiveshChauhan123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/DiveshChauhan123/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DiveshChauhan123/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DiveshChauhan123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
