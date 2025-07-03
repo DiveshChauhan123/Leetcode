@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/DiveshChauhan123/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/DiveshChauhan123/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DiveshChauhan123/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -791,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
