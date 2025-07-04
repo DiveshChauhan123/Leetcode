@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -800,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DiveshChauhan123/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/DiveshChauhan123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
