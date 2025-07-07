@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/DiveshChauhan123/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/3321-type-of-triangle) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3223-count-complete-substrings](https://github.com/DiveshChauhan123/Leetcode/tree/master/3223-count-complete-substrings) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DiveshChauhan123/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -834,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3223-count-complete-substrings](https://github.com/DiveshChauhan123/Leetcode/tree/master/3223-count-complete-substrings) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
