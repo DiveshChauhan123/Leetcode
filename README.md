@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3194-find-words-containing-character](https://github.com/DiveshChauhan123/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3223-count-complete-substrings](https://github.com/DiveshChauhan123/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
