@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
+| [1138-grumpy-bookstore-owner](https://github.com/DiveshChauhan123/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DiveshChauhan123/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1138-grumpy-bookstore-owner](https://github.com/DiveshChauhan123/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DiveshChauhan123/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DiveshChauhan123/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
