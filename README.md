@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/DiveshChauhan123/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/DiveshChauhan123/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
