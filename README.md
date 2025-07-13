@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -750,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
@@ -794,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -917,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
