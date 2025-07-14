@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DiveshChauhan123/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/0070-climbing-stairs) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DiveshChauhan123/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/DiveshChauhan123/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -975,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/DiveshChauhan123/Leetcode/tree/master/0498-diagonal-traverse) |
