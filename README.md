@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Counting
 |  |
 | ------- |
