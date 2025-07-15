@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/DiveshChauhan123/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DiveshChauhan123/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DiveshChauhan123/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
