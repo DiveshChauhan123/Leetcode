@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2263-maximum-running-time-of-n-computers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2294-minimum-time-to-complete-trips](https://github.com/DiveshChauhan123/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DiveshChauhan123/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2342-minimum-average-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/2342-minimum-average-difference) |
