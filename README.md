@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0956-number-of-music-playlists](https://github.com/DiveshChauhan123/Leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DiveshChauhan123/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/DiveshChauhan123/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1448-maximum-69-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DiveshChauhan123/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
