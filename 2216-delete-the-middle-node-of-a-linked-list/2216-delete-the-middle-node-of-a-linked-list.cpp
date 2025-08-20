@@ -15,13 +15,13 @@ public:
             return NULL;
         }
         ListNode*ans=head;
-        ListNode*slow=ans;
-        ListNode*fast=ans->next;
+        ListNode*slow=head;
+        ListNode*fast=head->next;
         while(fast->next!=NULL && fast->next->next!=NULL){
             slow=slow->next;
             fast=fast->next->next;
         }
         slow->next=slow->next->next;
-        return head;
+        return ans;
     }
 };
