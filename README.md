@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DiveshChauhan123/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1517-restore-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1517-restore-the-array) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DiveshChauhan123/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DiveshChauhan123/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DiveshChauhan123/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DiveshChauhan123/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
