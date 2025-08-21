@@ -804,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0859-design-circular-deque](https://github.com/DiveshChauhan123/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
