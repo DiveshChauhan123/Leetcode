@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DiveshChauhan123/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/DiveshChauhan123/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2176-parallel-courses-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/DiveshChauhan123/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2176-parallel-courses-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DiveshChauhan123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DiveshChauhan123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2176-parallel-courses-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2206-detonate-the-maximum-bombs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2176-parallel-courses-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
