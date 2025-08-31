@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/DiveshChauhan123/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DiveshChauhan123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/DiveshChauhan123/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DiveshChauhan123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/DiveshChauhan123/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/0133-clone-graph) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DiveshChauhan123/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DiveshChauhan123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DiveshChauhan123/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -922,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/DiveshChauhan123/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/DiveshChauhan123/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0078-subsets) |
