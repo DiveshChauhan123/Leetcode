@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3189-find-champion-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3189-find-champion-ii) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Topological Sort
 |  |
 | ------- |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DiveshChauhan123/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Binary Search
 |  |
 | ------- |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DiveshChauhan123/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1143,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
