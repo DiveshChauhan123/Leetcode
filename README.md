@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DiveshChauhan123/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1169,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
