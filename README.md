@@ -1155,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1192,6 +1193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1232,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Interactive
 |  |
 | ------- |
