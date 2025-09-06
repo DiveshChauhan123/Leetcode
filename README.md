@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DiveshChauhan123/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DiveshChauhan123/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1517-restore-the-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DiveshChauhan123/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DiveshChauhan123/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/DiveshChauhan123/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/DiveshChauhan123/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DiveshChauhan123/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DiveshChauhan123/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
