@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2472-build-a-matrix-with-conditions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/DiveshChauhan123/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3189-find-champion-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3189-find-champion-ii) |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Counting
 |  |
 | ------- |
@@ -861,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2101-last-day-where-you-can-still-cross](https://github.com/DiveshChauhan123/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/DiveshChauhan123/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2472-build-a-matrix-with-conditions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DiveshChauhan123/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Linked List
 |  |
