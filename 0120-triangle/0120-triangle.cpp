@@ -1,17 +1,15 @@
 class Solution {
 public:
-int n;
-vector<vector<int>>t;
-int solve(vector<vector<int>>& triangle,int row,int index){
-    if(row==n-1)return triangle[row][index];
-    if(t[row][index]!=-1)return t[row][index];
-    int left=solve(triangle,row+1,index);
-    int right=solve(triangle,row+1,index+1);
-    return t[row][index]=triangle[row][index]+min(left,right);
-}
     int minimumTotal(vector<vector<int>>& triangle) {
-        n=triangle.size();
-        t.assign(n, vector<int>(n, -1));
-        return solve(triangle,0,0);
+        int n = triangle.size();
+        vector<int> dp = triangle[n - 1];  // start with the last row
+
+        // bottom-up calculation
+        for (int row = n - 2; row >= 0; row--) {
+            for (int col = 0; col <= row; col++) {
+                dp[col] = triangle[row][col] + min(dp[col], dp[col + 1]);
+            }
+        }
+        return dp[0];  // result stored at the top
     }
 };
