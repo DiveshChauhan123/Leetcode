@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
@@ -918,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0382-linked-list-random-node](https://github.com/DiveshChauhan123/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0859-design-circular-deque](https://github.com/DiveshChauhan123/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
