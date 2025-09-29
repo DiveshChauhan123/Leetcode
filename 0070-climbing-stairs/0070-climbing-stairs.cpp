@@ -16,12 +16,12 @@ class Solution {
 public:
 int t[46];
     int climbStairs(int n) {
-        t[0]=1;
+        int prev2=1;
+        int prev1=0;
         for(int i=1;i<=n;i++){
-            t[i]+=t[i-1];
-            if(i-2>=0){
-                t[i]+=t[i-2];
-            }
+            t[i]=prev1+prev2;
+            prev1=prev2;
+            prev2=t[i];
         }
         return t[n];
     }
