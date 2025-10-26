@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2169-simple-bank-system) |
 | [2176-parallel-courses-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/DiveshChauhan123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DiveshChauhan123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-design-movie-rental-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/DiveshChauhan123/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2169-simple-bank-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DiveshChauhan123/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/DiveshChauhan123/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -867,6 +869,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/DiveshChauhan123/Leetcode/tree/master/0859-design-circular-deque) |
 | [2023-design-movie-rental-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2169-simple-bank-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
@@ -1226,6 +1229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2169-simple-bank-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DiveshChauhan123/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/DiveshChauhan123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
