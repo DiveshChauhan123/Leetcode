@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/DiveshChauhan123/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DiveshChauhan123/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1127-last-stone-weight](https://github.com/DiveshChauhan123/Leetcode/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
 | [1138-grumpy-bookstore-owner](https://github.com/DiveshChauhan123/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -779,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/DiveshChauhan123/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/DiveshChauhan123/Leetcode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1489-pizza-with-3n-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1539-diagonal-traverse-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1539-diagonal-traverse-ii) |
