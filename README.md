@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1923-sentence-similarity-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1962-single-threaded-cpu](https://github.com/DiveshChauhan123/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/DiveshChauhan123/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -795,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1489-pizza-with-3n-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1539-diagonal-traverse-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DiveshChauhan123/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1962-single-threaded-cpu](https://github.com/DiveshChauhan123/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2023-design-movie-rental-system](https://github.com/DiveshChauhan123/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1167,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-arithmetic-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1962-single-threaded-cpu](https://github.com/DiveshChauhan123/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
