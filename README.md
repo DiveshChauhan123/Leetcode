@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/DiveshChauhan123/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/DiveshChauhan123/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DiveshChauhan123/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -1039,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -1179,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
