@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/DiveshChauhan123/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DiveshChauhan123/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1008,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DiveshChauhan123/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1037,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1489-pizza-with-3n-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DiveshChauhan123/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1334,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bitmask
 |  |
 | ------- |
