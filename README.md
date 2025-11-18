@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/DiveshChauhan123/Leetcode/tree/master/0753-open-the-lock) |
+| [0763-special-binary-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0763-special-binary-string) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/DiveshChauhan123/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DiveshChauhan123/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/DiveshChauhan123/Leetcode/tree/master/0486-predict-the-winner) |
+| [0763-special-binary-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0763-special-binary-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
