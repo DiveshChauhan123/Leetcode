@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Depth-First Search
 |  |
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1133,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DiveshChauhan123/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -1328,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/DiveshChauhan123/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DiveshChauhan123/Leetcode/tree/master/0342-power-of-four) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
