@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/DiveshChauhan123/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DiveshChauhan123/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/DiveshChauhan123/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -1258,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/DiveshChauhan123/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Prefix Sum
 |  |
 | ------- |
