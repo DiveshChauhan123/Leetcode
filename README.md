@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3830-find-closest-person](https://github.com/DiveshChauhan123/Leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/DiveshChauhan123/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DiveshChauhan123/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3863-power-grid-maintenance](https://github.com/DiveshChauhan123/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -1346,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
