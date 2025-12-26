@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -1290,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
