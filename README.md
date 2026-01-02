@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/DiveshChauhan123/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/DiveshChauhan123/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/DiveshChauhan123/Leetcode/tree/master/0971-shortest-bridge) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/DiveshChauhan123/Leetcode/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0833-bus-routes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DiveshChauhan123/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
