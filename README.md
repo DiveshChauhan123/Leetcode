@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DiveshChauhan123/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0413-arithmetic-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DiveshChauhan123/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/DiveshChauhan123/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1221,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DiveshChauhan123/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DiveshChauhan123/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0561-array-partition) |
