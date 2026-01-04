@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/1033-broken-calculator) |
+| [1390-four-divisors](https://github.com/DiveshChauhan123/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1390-four-divisors](https://github.com/DiveshChauhan123/Leetcode/tree/master/1390-four-divisors) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DiveshChauhan123/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
