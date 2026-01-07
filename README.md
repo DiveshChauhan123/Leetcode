@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DiveshChauhan123/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1428-jump-game-iii) |
@@ -1145,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/DiveshChauhan123/Leetcode/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/DiveshChauhan123/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1180,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
 |  |
