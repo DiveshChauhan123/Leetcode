@@ -1493,6 +1493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/DiveshChauhan123/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/DiveshChauhan123/Leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/DiveshChauhan123/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/DiveshChauhan123/Leetcode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/1153-product-sales-analysis-i) |
