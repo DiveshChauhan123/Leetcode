@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/DiveshChauhan123/Leetcode/tree/master/1033-broken-calculator) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DiveshChauhan123/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/DiveshChauhan123/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1448-maximum-69-number) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/DiveshChauhan123/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1266-minimum-time-visiting-all-points](https://github.com/DiveshChauhan123/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1478,6 +1480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/DiveshChauhan123/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
