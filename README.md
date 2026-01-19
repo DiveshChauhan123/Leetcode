@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1266-minimum-time-visiting-all-points](https://github.com/DiveshChauhan123/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DiveshChauhan123/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DiveshChauhan123/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -922,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1290-make-array-strictly-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DiveshChauhan123/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DiveshChauhan123/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DiveshChauhan123/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1014,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/DiveshChauhan123/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DiveshChauhan123/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -1325,6 +1328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/DiveshChauhan123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/DiveshChauhan123/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/DiveshChauhan123/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/DiveshChauhan123/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DiveshChauhan123/Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
