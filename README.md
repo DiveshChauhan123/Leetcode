@@ -916,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DiveshChauhan123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DiveshChauhan123/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DiveshChauhan123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0337-house-robber-iii) |
 | [0863-sum-of-distances-in-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1216,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DiveshChauhan123/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DiveshChauhan123/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DiveshChauhan123/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0337-house-robber-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -1441,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DiveshChauhan123/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DiveshChauhan123/Leetcode/tree/master/0342-power-of-four) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
