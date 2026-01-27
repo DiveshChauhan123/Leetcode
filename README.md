@@ -901,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DiveshChauhan123/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/DiveshChauhan123/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
@@ -915,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DiveshChauhan123/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search
 |  |
 | ------- |
@@ -1619,4 +1621,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/DiveshChauhan123/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
