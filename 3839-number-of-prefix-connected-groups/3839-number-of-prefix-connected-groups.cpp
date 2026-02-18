@@ -1,21 +1,18 @@
 class Solution {
 public:
     int prefixConnected(vector<string>& words, int k) {
-        unordered_map<string, int> cnt;
-
-        for (auto &w : words) {
-            if ((int)w.size() < k) continue;   // ignore short words
-            string pref = w.substr(0, k);
-            cnt[pref]++;
-        }
-
-        int groups = 0;
-        for (auto &it : cnt) {
-            if (it.second >= 2) {
-                groups++;
+        for(int i=0;i<words.size();i++){
+            if(words[i].size()>=k){
+                words[i]=words[i].substr(0,k);
             }
         }
-
-        return groups;
+        sort(words.begin(),words.end());
+        unordered_map<string,int>mp;
+        int count=0;
+        for(int i=0;i<words.size();i++){
+            mp[words[i]]++;
+            if(words[i].size()==k && mp[words[i]]==2)count++;
+        }
+        return count;
     }
 };
