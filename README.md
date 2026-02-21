@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/DiveshChauhan123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DiveshChauhan123/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
@@ -1487,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DiveshChauhan123/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DiveshChauhan123/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
