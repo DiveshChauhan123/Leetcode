@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/DiveshChauhan123/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DiveshChauhan123/Leetcode/tree/master/0037-sudoku-solver) |
@@ -1099,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DiveshChauhan123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/0086-partition-list) |
