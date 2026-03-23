@@ -1,26 +1,29 @@
 class Solution {
 public:
-    bool dfs(int x, int y, vector<vector<char>>& board, string& word, vector<vector<int>>& visited, int index) {
-        if (index == word.size()) return true;
+    int dx[4] = {1, 0, -1, 0};
+    int dy[4] = {0, -1, 0, 1};
 
-        visited[x][y] = 1;
+    bool find(vector<vector<char>>& board, string word, int i, int j, int idx) {
+        if (idx == word.size()) return true;
 
-        int dx[] = {1, 0, -1, 0};
-        int dy[] = {0, -1, 0, 1};
+        if (i < 0 || j < 0 || i >= board.size() || j >= board[0].size() || board[i][j] == '$')
+            return false;
 
-        for (int i = 0; i < 4; i++) {
-            int newX = x + dx[i];
-            int newY = y + dy[i];
+        if (board[i][j] != word[idx]) return false;
 
-            if (newX >= 0 && newX < board.size() && newY >= 0 && newY < board[0].size() &&
-                !visited[newX][newY] && board[newX][newY] == word[index]) {
-                if (dfs(newX, newY, board, word, visited, index + 1)) {
-                    return true;
-                }
+        char temp = board[i][j];
+        board[i][j] = '$';
+
+        for (int k = 0; k < 4; k++) {
+            int new_i = i + dx[k];
+            int new_j = j + dy[k];
+
+            if (find(board, word, new_i, new_j, idx + 1)) {
+                return true;
             }
         }
 
-        visited[x][y] = 0; 
+        board[i][j] = temp;
         return false;
     }
 
@@ -30,15 +33,11 @@ public:
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (board[i][j] == word[0]) {
-                    vector<vector<int>> visited(n, vector<int>(m, 0));
-                    if (dfs(i, j, board, word, visited, 1)) {
-                        return true;
-                    }
+                if (board[i][j] == word[0] && find(board, word, i, j, 0)) {
+                    return true;
                 }
             }
         }
-
         return false;
     }
 };
