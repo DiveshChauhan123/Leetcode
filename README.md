@@ -526,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DiveshChauhan123/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/DiveshChauhan123/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
@@ -1272,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DiveshChauhan123/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/DiveshChauhan123/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1488,6 +1490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DiveshChauhan123/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1656-count-good-triplets](https://github.com/DiveshChauhan123/Leetcode/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -1536,6 +1539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DiveshChauhan123/Leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/DiveshChauhan123/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
