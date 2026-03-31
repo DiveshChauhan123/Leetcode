@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DiveshChauhan123/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DiveshChauhan123/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/DiveshChauhan123/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -1229,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DiveshChauhan123/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
