@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DiveshChauhan123/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DiveshChauhan123/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
 |  |
 | ------- |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DiveshChauhan123/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/DiveshChauhan123/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1015,6 +1017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3454-separate-squares-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
@@ -1422,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/DiveshChauhan123/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Prefix Sum
