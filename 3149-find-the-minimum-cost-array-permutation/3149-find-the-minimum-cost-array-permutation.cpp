@@ -1,39 +1,47 @@
 class Solution {
 public:
-    int n;
-    int minSum = INT_MAX;
-    vector<int> result;
+    int mini = INT_MAX;
+    vector<int> resultpre;
 
-    void solve(vector<int>& nums, vector<bool>& visited, vector<int>& temp, int sum) {
-        if (minSum <= sum)  //If you remove this, you will get TLE. This eliminates many useless calls further
-            return; // No point in going further because sum is going higher than minVal
-
-        if (temp.size() == n) {
-            sum += abs(temp.back() - nums[temp[0]]);
-            if (sum < minSum) {
-                minSum = sum;
-                result = temp;   
+    void solve(vector<int>& nums, int score, vector<int>& prem, vector<int>& visited) {
+        int n = nums.size();
+        if(score>mini)return;
+        if (prem.size() == n) {
+            score += abs(prem.back() - nums[prem[0]]);
+            if (mini > score) {
+                mini = score;
+                resultpre = prem;
             }
+            return;
         }
 
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-                visited[i] = true;
-                temp.push_back(i);
-                solve(nums, visited, temp, sum + abs(temp[temp.size() - 2] - nums[temp[temp.size() - 1]]));
-                temp.pop_back();
-                visited[i] = false;
+                visited[i] = 1;
+                prem.push_back(i);
+
+                int added = 0;
+                if (prem.size() > 1) {
+                    int sz = prem.size();
+                    added = abs(prem[sz - 2] - nums[prem[sz - 1]]);
+                }
+
+                solve(nums, score + added, prem, visited);
+
+                prem.pop_back();
+                visited[i] = 0;
             }
         }
     }
 
     vector<int> findPermutation(vector<int>& nums) {
-        n = nums.size();
-        vector<bool> visited(n, false);
-        vector<int> temp = {0}; // lexicographically smallest will start from 0
-        visited[0] = true; // We have used and hence visited 0
+        int n = nums.size();
+        vector<int> visited(n, 0);
 
-        solve(nums, visited, temp, 0);
-        return result;
+        vector<int> prem = {0};
+        visited[0] = 1; // IMPORTANT
+
+        solve(nums, 0, prem, visited);
+        return resultpre;
     }
 };
