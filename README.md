@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DiveshChauhan123/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/DiveshChauhan123/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2690-house-robber-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2573-find-the-string-with-lcp](https://github.com/DiveshChauhan123/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2615-sum-of-distances](https://github.com/DiveshChauhan123/Leetcode/tree/master/2615-sum-of-distances) |
 | [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -733,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-meeting-rooms-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2448-count-number-of-bad-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2615-sum-of-distances](https://github.com/DiveshChauhan123/Leetcode/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1293,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/DiveshChauhan123/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2305-fair-distribution-of-cookies](https://github.com/DiveshChauhan123/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1412,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2636-maximum-subsequence-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/DiveshChauhan123/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -1527,6 +1533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0956-number-of-music-playlists](https://github.com/DiveshChauhan123/Leetcode/tree/master/0956-number-of-music-playlists) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/DiveshChauhan123/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Number Theory
