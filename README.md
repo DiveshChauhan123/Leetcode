@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/DiveshChauhan123/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DiveshChauhan123/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/DiveshChauhan123/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3194-find-words-containing-character](https://github.com/DiveshChauhan123/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -1561,6 +1563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/DiveshChauhan123/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/DiveshChauhan123/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/DiveshChauhan123/Leetcode/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DiveshChauhan123/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1587,6 +1590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/DiveshChauhan123/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/DiveshChauhan123/Leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
