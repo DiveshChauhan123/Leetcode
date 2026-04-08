@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0313-super-ugly-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -1574,6 +1575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DiveshChauhan123/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DiveshChauhan123/Leetcode/tree/master/0342-power-of-four) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
