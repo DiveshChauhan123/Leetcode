@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DiveshChauhan123/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
