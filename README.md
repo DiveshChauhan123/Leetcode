@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/DiveshChauhan123/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/DiveshChauhan123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/DiveshChauhan123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DiveshChauhan123/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/DiveshChauhan123/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1220,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/DiveshChauhan123/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DiveshChauhan123/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/DiveshChauhan123/Leetcode/tree/master/0561-array-partition) |
