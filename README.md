@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/DiveshChauhan123/Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/DiveshChauhan123/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DiveshChauhan123/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/DiveshChauhan123/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/DiveshChauhan123/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2530-minimize-maximum-of-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/DiveshChauhan123/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
