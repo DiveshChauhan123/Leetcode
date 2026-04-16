@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/DiveshChauhan123/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/DiveshChauhan123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DiveshChauhan123/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DiveshChauhan123/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/DiveshChauhan123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0494-target-sum) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DiveshChauhan123/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0930-all-possible-full-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
@@ -1595,6 +1598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/DiveshChauhan123/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DiveshChauhan123/Leetcode/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -1618,6 +1622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/DiveshChauhan123/Leetcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1522-stone-game-iii) |
@@ -1630,6 +1635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
