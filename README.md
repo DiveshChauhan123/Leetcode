@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0518-coin-change-ii) |
 | [0553-optimal-division](https://github.com/DiveshChauhan123/Leetcode/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
