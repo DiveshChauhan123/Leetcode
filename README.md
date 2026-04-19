@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/DiveshChauhan123/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/DiveshChauhan123/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/DiveshChauhan123/Leetcode/tree/master/1013-fibonacci-number) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/DiveshChauhan123/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/DiveshChauhan123/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/DiveshChauhan123/Leetcode/tree/master/0724-find-pivot-index) |
@@ -1341,6 +1344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/DiveshChauhan123/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1022-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1022-unique-paths-iii) |
@@ -1617,6 +1621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DiveshChauhan123/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/DiveshChauhan123/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -1653,6 +1658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/DiveshChauhan123/Leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DiveshChauhan123/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1220-smallest-sufficient-team](https://github.com/DiveshChauhan123/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1906-maximize-score-after-n-operations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2305-fair-distribution-of-cookies](https://github.com/DiveshChauhan123/Leetcode/tree/master/2305-fair-distribution-of-cookies) |
