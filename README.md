@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DiveshChauhan123/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/DiveshChauhan123/Leetcode/tree/master/1895-largest-magic-square) |
@@ -1047,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DiveshChauhan123/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DiveshChauhan123/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/DiveshChauhan123/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -1210,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/1129-longest-string-chain) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DiveshChauhan123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/DiveshChauhan123/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
