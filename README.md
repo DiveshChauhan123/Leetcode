@@ -549,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/DiveshChauhan123/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/DiveshChauhan123/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DiveshChauhan123/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/DiveshChauhan123/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/DiveshChauhan123/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DiveshChauhan123/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/DiveshChauhan123/Leetcode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1345-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1345-jump-game-iv) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DiveshChauhan123/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1447-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1447-jump-game-iv) |
 | [1500-count-largest-group](https://github.com/DiveshChauhan123/Leetcode/tree/master/1500-count-largest-group) |
@@ -840,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/DiveshChauhan123/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1345-jump-game-iv](https://github.com/DiveshChauhan123/Leetcode/tree/master/1345-jump-game-iv) |
 | [1380-number-of-closed-islands](https://github.com/DiveshChauhan123/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/DiveshChauhan123/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/DiveshChauhan123/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
