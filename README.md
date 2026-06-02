@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/DiveshChauhan123/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-special-binary-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/0763-special-binary-string) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DiveshChauhan123/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0764-largest-plus-sign](https://github.com/DiveshChauhan123/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0788-rotated-digits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/DiveshChauhan123/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/DiveshChauhan123/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/DiveshChauhan123/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DiveshChauhan123/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -506,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-largest-plus-sign](https://github.com/DiveshChauhan123/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0777-toeplitz-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DiveshChauhan123/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -758,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/DiveshChauhan123/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0753-open-the-lock](https://github.com/DiveshChauhan123/Leetcode/tree/master/0753-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0833-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/DiveshChauhan123/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1048,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/DiveshChauhan123/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DiveshChauhan123/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/DiveshChauhan123/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1459,6 +1465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/DiveshChauhan123/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/DiveshChauhan123/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DiveshChauhan123/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0792-number-of-matching-subsequences](https://github.com/DiveshChauhan123/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/DiveshChauhan123/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/DiveshChauhan123/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0941-sort-array-by-parity](https://github.com/DiveshChauhan123/Leetcode/tree/master/0941-sort-array-by-parity) |
