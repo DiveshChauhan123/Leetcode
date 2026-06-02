@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0764-largest-plus-sign](https://github.com/DiveshChauhan123/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/DiveshChauhan123/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -500,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/DiveshChauhan123/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/0729-my-calendar-i) |
 | [0753-open-the-lock](https://github.com/DiveshChauhan123/Leetcode/tree/master/0753-open-the-lock) |
+| [0764-largest-plus-sign](https://github.com/DiveshChauhan123/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0777-toeplitz-matrix](https://github.com/DiveshChauhan123/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0787-sliding-puzzle](https://github.com/DiveshChauhan123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
