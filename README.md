@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DiveshChauhan123/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DiveshChauhan123/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1087,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/DiveshChauhan123/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3454-separate-squares-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/DiveshChauhan123/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
@@ -1237,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/DiveshChauhan123/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/DiveshChauhan123/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DiveshChauhan123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/DiveshChauhan123/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Stack
@@ -1317,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/DiveshChauhan123/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DiveshChauhan123/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
@@ -1510,6 +1514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/DiveshChauhan123/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/DiveshChauhan123/Leetcode/tree/master/3321-type-of-triangle) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DiveshChauhan123/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/DiveshChauhan123/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DiveshChauhan123/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/DiveshChauhan123/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
