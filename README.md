@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/DiveshChauhan123/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/DiveshChauhan123/Leetcode/tree/master/0553-optimal-division) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DiveshChauhan123/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/DiveshChauhan123/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/DiveshChauhan123/Leetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/DiveshChauhan123/Leetcode/tree/master/0909-stone-game) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DiveshChauhan123/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/DiveshChauhan123/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0764-largest-plus-sign](https://github.com/DiveshChauhan123/Leetcode/tree/master/0764-largest-plus-sign) |
+| [0788-rotated-digits](https://github.com/DiveshChauhan123/Leetcode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DiveshChauhan123/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/DiveshChauhan123/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/DiveshChauhan123/Leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
